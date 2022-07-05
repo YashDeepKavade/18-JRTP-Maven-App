@@ -1,5 +1,5 @@
 package in.ls;
 
-public class Demo {
+public class Demo extends RuntimeException{
 
 }
